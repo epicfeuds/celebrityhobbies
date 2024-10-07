@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://epicfeuds.github.io/celebrityhobbies/sitemap_index.xml
